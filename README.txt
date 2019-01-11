@@ -1,3 +1,7 @@
+# 테트리스 게임
+
+* 자바스크립트로 이쁘게 잘만들었다
+
 HTML/JS/CSS Tetris. Rather straightforward code without dependencies.
 
 Built under time constraints (on a plane) as a practice in getting things done,
