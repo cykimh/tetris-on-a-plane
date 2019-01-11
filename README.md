@@ -1,6 +1,6 @@
 # 테트리스 게임
 
-* 자바스크립트로 이쁘게 잘만들었다
+* 자바스크립트로 이쁘게 잘만들었다.
 
 HTML/JS/CSS Tetris. Rather straightforward code without dependencies.
 
